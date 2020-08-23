@@ -23,5 +23,22 @@ flutter:
   assets:
      - images/
 
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-Bold.ttf
+          weight: 700
+        - asset: fonts/Raleway-LightItalic.ttf
+          weight: 300
+          style: italic
+
+    - family : Roboto
+      fonts:
+       - asset: fonts/Roboto-Regular.ttf
+
+
+
+
 
 
